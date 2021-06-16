@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Ryzen_AM4_processor" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Ryzen_AM4_processors_assembly" assemblyId="f63101c3651c443ea96ae9b11275ac3a">
+<Part name="Ryzen_AM4_processor" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00017504 -0.000984732 0.0371656" rotation="AD: 0.9999041063992886 0.03632652268693867 -0.4141738206343934 189.26" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

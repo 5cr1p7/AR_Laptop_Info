@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="scene" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="scenes_assembly" assemblyId="159cb5dc4c914d539b5d93bb201ce814">
+<Part name="scene" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="1.40133e-17 0.0635607 0.111686" rotation="AD: 0.999988188062428 0.01270687884592419 -0.414208669708355 183.247" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

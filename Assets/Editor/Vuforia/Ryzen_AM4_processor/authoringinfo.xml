@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Ryzen_AM4_processor" targetId="c1b93003b5e044efb8dff60eb261d385" version="11.1" toolVersion="9.8.5" bbox="-0.014124 -0.001500 -0.002124 0.001876 0.002500 0.013876" previewImage="c1b93003b5e044efb8dff60eb261d385_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Ryzen_AM4_processors_assembly" assemblyId="f63101c3651c443ea96ae9b11275ac3a">
+<Part name="Ryzen_AM4_processor" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00017504 -0.000984732 0.0371656" rotation="AD: 0.9999041063992886 0.03632652268693867 -0.4141738206343934 189.26" image="Ryzen_AM4_processor_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
